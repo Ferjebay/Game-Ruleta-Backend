@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game-Ruleta", "Game-Ruleta\Game-Ruleta.csproj", "{8F0CD9D7-8984-4F48-A44C-3597B651F515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5187F85B-F122-4A1C-B2A3-EC1A2942AC43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0CD9D7-8984-4F48-A44C-3597B651F515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0CD9D7-8984-4F48-A44C-3597B651F515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0CD9D7-8984-4F48-A44C-3597B651F515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0CD9D7-8984-4F48-A44C-3597B651F515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5187F85B-F122-4A1C-B2A3-EC1A2942AC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5187F85B-F122-4A1C-B2A3-EC1A2942AC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5187F85B-F122-4A1C-B2A3-EC1A2942AC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5187F85B-F122-4A1C-B2A3-EC1A2942AC43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90A5B913-7BFF-43A7-BBF1-747EFC34B9B1}
+	EndGlobalSection
+EndGlobal
